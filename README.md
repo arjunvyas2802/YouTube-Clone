@@ -13,7 +13,7 @@ This project replicates the core layout and design of YouTube, focusing on **Fle
 - CSS3 (Flexbox, Grid, Media Queries)
 
 ## Screenshots
-(Add screenshots here once you capture them)
+![Home page](https://github.com/arjunvyas2802/YouTube-Clone/issues/1#issue-3327492218)
 
 ## Live Demo
 (You can deploy using GitHub Pages or Netlify and paste link here)
