@@ -16,7 +16,7 @@ This project replicates the core layout and design of YouTube, focusing on **Fle
 ![Home page](https://github.com/arjunvyas2802/YouTube-Clone/issues/1#issue-3327492218)
 
 ## Live Demo
-(You can deploy using GitHub Pages or Netlify and paste link here)
+[View project](https://arjunvyas2802.github.io/YouTube-Clone/)
 
 ## Learning
 This project helped me strengthen:
